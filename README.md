@@ -10,3 +10,12 @@ It is an end-to-end automated pipeline built on Amazon Web Services that does th
 4.  Populates an analytics dashboard for the business team based on new customer engagements.
 5.  Sends an email to business and product teams with the updated dashboard as well as a spreadsheet containing only new engagements.
 6.  Turns off the analytics server when job is finished.
+
+# Cost Reduction
+This pipeline cost the company only $4.03 per month to process data on 3000 users which was the cheapest compared to what other available products in the market were offering at that time.
+Below is a comparison:
+- My solution: $4.03
+- IBM: $10.00
+- Microsoft: $20.00
+- Amazon: $27.00
+- Tableau: $70.00
