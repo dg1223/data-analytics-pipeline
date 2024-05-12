@@ -1,4 +1,6 @@
 # Data Analytics Pipeline
+
+*If the image does not open directly, please click on the README.md file and open it from there.
 ![image](https://github.com/dg1223/data-analytics-pipeline/assets/4992116/2ed2c2cb-d545-4747-98cc-8f7478b4f9e0)
 
 This is a data analytics pipeline for business intelligence related tasks that I created at Openhaus.
